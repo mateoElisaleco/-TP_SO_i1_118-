@@ -11,7 +11,7 @@ d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos a traves de discord y WhatsApp
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
-
+La mejor forma de comunicarse es por "Projects"
 
 5-ALFA sube las respuestas a- y b-
 6-BETA sube la c- y d-
